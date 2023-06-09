@@ -41,7 +41,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
  on a server or cloud platform to handle user requests and ensure accessibility. Ensure scalability and security to handle potential user traffic and protect sensitive data.
 
-8. Testing and Monitoring: Thoroughly test the system to ensure its accuracy, performance,and reliability. Implement monitoring mechanisms to track system usage, detect anomalies, and address any issues promptly.
+8. Testing and Monitoring: Thoroughly test the system to ensure its accuracy,performance,and reliability. Implement monitoring mechanisms to track system usage, detect anomalies, and address any issues promptly.
 
 9. Maintenance and Updates: Regularly maintain and update the system to incorporate new data, improve models' performance, and address emerging challenges. Stay updated with the latest research and guidelines related to drinking water quality.
 
