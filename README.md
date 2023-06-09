@@ -8,7 +8,7 @@ Ensuring the potability of drinking water is crucial for maintaining public heal
 The Drinking Water Potability Prediction system aims to analyze water quality parameters and predict whether a given water sample is potable or not. By utilizing machine learning algorithms and historical water quality data, the system helps in identifying potential risks and ensuring the safety of drinking water supplies. This information can be valuable for water treatment plants, regulatory authorities, and public health agencies to take appropriate measures for water purification and quality control.
 
 ## Features
-1. Data Collection: The system collects data related to water quality parameters from various sources,such as water testing laboratories, environmental monitoring agencies, and research studies. The data includes parameters such as pH, hardness, alkalinity, turbidity, chlorides, sulfates, and other chemical compositions.
+1. Data Collection: The system collects data related to water quality parameters from various sources,such as water testing laboratories, environmental monitoring agencies, and research studies. The data includes parameters such as pH, hardness, alkalinity, turbidity, chlorides,sulfates, and other chemical compositions.
 
 2. Data Preprocessing: The collected data undergoes preprocessing steps to handle missing values,outliers, and inconsistencies. Additionally, feature engineering techniques may be applied to extract additional relevant features from the raw data.
 
