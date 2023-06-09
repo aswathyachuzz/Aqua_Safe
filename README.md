@@ -27,7 +27,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 1. Data Collection: Gather water quality data from reliable sources,such as water testing laboratories,environmental agencies, or research publications. Ensure that the data includes relevant parameters and labels indicating the potability of each water sample.
 
-2. Data Preprocessing: Preprocess the collected data by handling missing values, outliers, and inconsistencies. Perform feature engineering if necessary to derive additional meaningful features.
+2. Data Preprocessing: Preprocess the collected data by handling missing values, outliers, and inconsistencies.Perform feature engineering if necessary to derive additional meaningful features.
 
 3. Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
