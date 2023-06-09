@@ -20,7 +20,7 @@ The Drinking Water Potability Prediction system aims to analyze water quality pa
 
 6. Interpretability and Feature Importance: The system offers interpretability features to understand the importance of different water quality parameters in the prediction process. This helps users identify critical factors affecting potability and prioritize corrective actions.
 
-7. User Interface: The predictions and analysis results are presented through an intuitive user interface, which includes forms for inputting water quality parameters and displaying the prediction outcome. The interface may also include visualizations, such as charts or tables, to provide insights into the model's performance and water quality trends.
+7. User Interface: The predictions and analysis results are presented through an intuitive user interface,which includes forms for inputting water quality parameters and displaying the prediction outcome. The interface may also include visualizations, such as charts or tables, to provide insights into the model's performance and water quality trends.
 
 ## Usage
 To use the Drinking Water Potability Prediction system, follow these steps:
