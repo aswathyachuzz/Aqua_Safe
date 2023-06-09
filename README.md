@@ -37,9 +37,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 6. User Interface Development: Develop a user-friendly interface to interact with the system.The interface should allow users to input water quality parameters, display prediction outcomes, and provide visualizations for analysis purposes.
 
-7. Deployment: Deploy the system
-
- on a server or cloud platform to handle user requests and ensure accessibility. Ensure scalability and security to handle potential user traffic and protect sensitive data.
+7. Deployment: Deploy the system on a server or cloud platform to handle user requests and ensure accessibility. Ensure scalability and security to handle potential user traffic and protect sensitive data.
 
 8. Testing and Monitoring: Thoroughly test the system to ensure its accuracy,performance,and reliability. Implement monitoring mechanisms to track system usage, detect anomalies, and address any issues promptly.
 
