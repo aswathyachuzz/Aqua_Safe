@@ -29,7 +29,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 2. Data Preprocessing:Preprocess the collected data by handling missing values, outliers, and inconsistencies.Perform feature engineering if necessary to derive additional meaningful features.
 
-3. Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
+3. Model Training:Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
 4. Model Evaluation and Validation: Evaluate the trained models using appropriate metrics to assess their accuracy and reliability.Employ cross-validation techniques to ensure generalizability.
 
