@@ -35,7 +35,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 5. Real-time Prediction: Implement the functionality to accept water quality parameters as input and generate real-time predictions on the potability of the water sample. Ensure that the prediction process is efficient and provides quick results.
 
-6. User Interface Development: Develop a user-friendly interface to interact with the system.The interface should allow users to input water quality parameters, display prediction outcomes, and provide visualizations for analysis purposes.
+6. User Interface Development: Develop a user-friendly interface to interact with the system.The interface should allow users to input water quality parameters,display prediction outcomes, and provide visualizations for analysis purposes.
 
 7. Deployment: Deploy the system on a server or cloud platform to handle user requests and ensure accessibility.Ensure scalability and security to handle potential user traffic and protect sensitive data.
 
