@@ -16,7 +16,7 @@ The Drinking Water Potability Prediction system aims to analyze water quality pa
 
 4. Model Evaluation and Validation:The trained models are evaluated using appropriate metrics,such as accuracy,precision,recall,and F1 score, to assess their performance.Cross-validation techniques may be employed to ensure robustness and generalizability of the models.
 
-5. Real-time Prediction: The system provides real-time prediction capabilities where users can input water quality parameters for a specific sample, and the system generates a prediction on its potability. This functionality can be useful for quick assessments and decision-making.
+5. Real-time Prediction: The system provides real-time prediction capabilities where users can input water quality parameters for a specific sample,and the system generates a prediction on its potability. This functionality can be useful for quick assessments and decision-making.
 
 6. Interpretability and Feature Importance: The system offers interpretability features to understand the importance of different water quality parameters in the prediction process. This helps users identify critical factors affecting potability and prioritize corrective actions.
 
