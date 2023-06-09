@@ -14,7 +14,7 @@ The Drinking Water Potability Prediction system aims to analyze water quality pa
 
 3. Machine Learning Models:The system employs various machine learning algorithms,such as logistic regression,decision trees,random forests,or support vector machines, to build predictive models.These models are trained on historical water quality data,considering the relationship between different parameters and the potability label.
 
-4. Model Evaluation and Validation:The trained models are evaluated using appropriate metrics,such as accuracy,precision, recall,and F1 score, to assess their performance.Cross-validation techniques may be employed to ensure robustness and generalizability of the models.
+4. Model Evaluation and Validation:The trained models are evaluated using appropriate metrics,such as accuracy,precision,recall,and F1 score, to assess their performance.Cross-validation techniques may be employed to ensure robustness and generalizability of the models.
 
 5. Real-time Prediction: The system provides real-time prediction capabilities where users can input water quality parameters for a specific sample, and the system generates a prediction on its potability. This functionality can be useful for quick assessments and decision-making.
 
