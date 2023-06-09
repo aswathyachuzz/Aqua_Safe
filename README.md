@@ -2,7 +2,7 @@
 # Drinking Water Potability Prediction
 
 ## Introduction
-Ensuring the potability of drinking water is crucial for maintaining public health and preventing waterborne diseases. The Drinking Water Potability Prediction system is designed to assess the quality of water samples and predict their suitability for human consumption. This README file provides an overview of the Drinking Water Potability Prediction system, including its purpose, features,and usage.
+Ensuring the potability of drinking water is crucial for maintaining public health and preventing waterborne diseases. The Drinking Water Potability Prediction system is designed to assess the quality of water samples and predict their suitability for human consumption. This README file provides an overview of the Drinking Water Potability Prediction system, including its purpose,features,and usage.
 
 ## Purpose
 The Drinking Water Potability Prediction system aims to analyze water quality parameters and predict whether a given water sample is potable or not.By utilizing machine learning algorithms and historical water quality data,the system helps in identifying potential risks and ensuring the safety of drinking water supplies.This information can be valuable for water treatment plants,regulatory authorities, and public health agencies to take appropriate measures for water purification and quality control.
