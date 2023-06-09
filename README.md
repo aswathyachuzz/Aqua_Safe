@@ -31,7 +31,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 3. Model Training: Train the machine learning models using the preprocessed data. Experiment with different algorithms and hyperparameters to optimize the models' performance.
 
-4. Model Evaluation and Validation: Evaluate the trained models using appropriate metrics to assess their accuracy and reliability. Employ cross-validation techniques to ensure generalizability.
+4. Model Evaluation and Validation: Evaluate the trained models using appropriate metrics to assess their accuracy and reliability.Employ cross-validation techniques to ensure generalizability.
 
 5. Real-time Prediction: Implement the functionality to accept water quality parameters as input and generate real-time predictions on the potability of the water sample. Ensure that the prediction process is efficient and provides quick results.
 
