@@ -41,7 +41,7 @@ To use the Drinking Water Potability Prediction system, follow these steps:
 
 8. Testing and Monitoring: Thoroughly test the system to ensure its accuracy,performance,and reliability. Implement monitoring mechanisms to track system usage, detect anomalies, and address any issues promptly.
 
-9. Maintenance and Updates: Regularly maintain and update the system to incorporate new data, improve models' performance, and address emerging challenges. Stay updated with the latest research and guidelines related to drinking water quality.
+9. Maintenance and Updates: Regularly maintain and update the system to incorporate new data,improve models' performance, and address emerging challenges. Stay updated with the latest research and guidelines related to drinking water quality.
 
 ## Conclusion
 The Drinking Water Potability Prediction system provides a valuable tool for assessing the potability of drinking water samples. By leveraging machine learning and historical data, the system helps in identifying potential risks and ensuring the safety of water supplies. It is essential to continually improve and update the system to incorporate new data sources, enhance models' accuracy, and ensure the delivery of reliable predictions for maintaining public health and safety.
