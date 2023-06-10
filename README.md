@@ -23,7 +23,7 @@ The Drinking Water Potability Prediction system aims to analyze water quality pa
 7. User Interface:The predictions and analysis results are presented through an intuitive user interface,which includes forms for inputting water quality parameters and displaying the prediction outcome.The interface may also include visualizations,such as charts or tables,to provide insights into the model's performance and water quality trends.
 
 ## Usage
-To use the Drinking Water Potability Prediction system, follow these steps:
+To use the Drinking Water Potability Prediction system,follow these steps:
 
 1. Data Collection:Gather water quality data from reliable sources,such as water testing laboratories,environmental agencies,or research publications. Ensure that the data includes relevant parameters and labels indicating the potability of each water sample.
 
